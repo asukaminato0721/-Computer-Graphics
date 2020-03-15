@@ -1,4 +1,4 @@
-//g++ -o experiment1 -Wall experiment1.cpp -mwindows glut32.lib -lopengl32 -lglu32
+//g++ -o 3-1 -Wall 3-1.cpp -mwindows glut32.lib -lopengl32 -lglu32
 #include <windows.h>
 #include <gl/glut.h>
 //y1 在 GCC 里是内置函数,改名为 y3

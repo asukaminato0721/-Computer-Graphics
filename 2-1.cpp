@@ -1,4 +1,4 @@
-//g++ -o rect -Wall rect.cpp -mwindows glut32.lib -lopengl32 -lglu32
+//g++ -o 2-1 -Wall 2-1.cpp -mwindows glut32.lib -lopengl32 -lglu32
 #include <windows.h>
 #include <gl/glut.h>
 void Initial(void)
