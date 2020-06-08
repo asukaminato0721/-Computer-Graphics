@@ -27,3 +27,9 @@
     ```
 
 [参考链接](https://w3.cs.jmu.edu/bernstdh/Web/common/help/cpp_mingw-glut-setup.php)
+
+---
+
+弃 CPP，转投 Python 怀抱。
+
+[相关资料](https://hansimov.github.io/#PyOpenGL%20的几个问题)
